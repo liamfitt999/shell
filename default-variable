@@ -1,0 +1,6 @@
+#! /bin/bash
+
+version="${1:-latest}"
+name="$2"
+
+echo "$version $name"
